@@ -9,23 +9,24 @@ THIS IS NOT AN OFFICIAL PLUGIN OF MAP.KAKAO.COM
 * 개인 정보를 수집하지 않으며, 사용자 행동을 수집하지 않습니다.
 
 
-SHORTCUTS
+단축키
 =========
-* 지도설정
-Shift+Ctrl+1 : 교통정보
-Shift+Ctrl+2 : CCTV
-Shift+Ctrl+Q : 사고.공사
-Shift+Ctrl+W : 자전거
-Shift+Ctrl+A : 지형도
-Shift+Ctrl+S : 지적편집도
-Shift+Ctrl+Z : 법정경계
-Shift+Ctrl+X : 행정경계
 
-* 지도타입
-Shift+Ctrl+M : 지도 / 스카이뷰 토글
+## 지도설정 ##
+* Shift+Ctrl+1 : 교통정보
+* Shift+Ctrl+2 : CCTV
+* Shift+Ctrl+Q : 사고.공사
+* Shift+Ctrl+W : 자전거
+* Shift+Ctrl+A : 지형도
+* Shift+Ctrl+S : 지적편집도
+* Shift+Ctrl+Z : 법정경계
+* Shift+Ctrl+X : 행정경계
 
-* 확대/축소
-Alt+"+" : 확대 (Window)
-Alt+"-" : 축소 (Window)
-Cmd+"+" : 확대 (맥)
-Cmd+"-" : 축소 (맥)
+## 지도타입 ##
+* Shift+Ctrl+M : 지도 / 스카이뷰 토글
+
+## 확대/축소 ##
+* Alt+"+" : 확대 (Window)
+* Alt+"-" : 축소 (Window)
+* Cmd+"+" : 확대 (맥)
+* Cmd+"-" : 축소 (맥)
