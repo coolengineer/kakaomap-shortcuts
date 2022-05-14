@@ -3,6 +3,9 @@
     "description": "카카오맵 단축키",
     "version": "1.0",
     "manifest_version": 3,
+    "icons": {
+        "128": "128.png"
+    },
     "content_scripts": [
         {
             "matches": ["https://map.kakao.com/*"],
@@ -11,5 +14,5 @@
             "js": ["jquery-3.6.0.min.js", "shortcut.js"]
         }
     ],
-    "permissions": ["storage"]
+    "permissions": []
 }
